@@ -1,0 +1,21 @@
+# Kubernetes secrets
+*secret*.yaml
+
+# AWS credentials
+*.pem
+.aws/
+
+# Local environment
+.env
+*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
